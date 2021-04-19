@@ -131,5 +131,6 @@ dmypy.json
 # Project specific
 *.env
 data/*
-logos/*
-friends_lists/*
+01_friends_lists/*
+02_user_details/*
+03_logos/*
